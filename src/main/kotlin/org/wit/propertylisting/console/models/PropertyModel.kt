@@ -1,3 +1,5 @@
+package org.wit.propertylisting.console.models
+
 data class PropertyModel(var id: Long = 0,
                          var propType: String = "",
                          var address: String = "",
